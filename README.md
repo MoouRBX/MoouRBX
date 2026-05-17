@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="./assets/ltseverydayyou-banner.svg" alt="ltseverydayyou" />
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/641335879381680129">
-    <img src="./assets/buttons/discord-button.svg" alt="Discord" />
-  </a>
-  <a href="https://open.spotify.com/user/316a6txgaro3ethw6pochw3uripy">
+## Welcome To Moou's Account ##
+<p align="center"
+  <a href="https://open.spotify.com/user/31ejobs4bnfuvzyuzkpjzdbqnnx4">
     <img src="./assets/buttons/spotify-button.svg" alt="Spotify" />
   </a>
   <a href="https://scriptblox.com/u/Vyperia">
